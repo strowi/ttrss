@@ -1,0 +1,3 @@
+# ttrss
+
+upstream mirror
